@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 skills
-** Python (Beginner)  
+**Python (Beginner)**  
 **Analytics Tools:** Power BI, Advanced Excel  
 **Econometrics Tools:** EViews, Gretl  
 **Other Skills:** Data analysis, Financial modelling, Risk assessment
